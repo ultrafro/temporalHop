@@ -11,15 +11,6 @@ This works by creating a template image of 2x2 frames from the video. For each f
 ![ezgif-4-12d620db27](https://github.com/ultrafro/temporalHop/assets/3029964/c7c25508-d34b-4411-aec4-0a15c7268f54)  |  ![ezgif-4-bdfe60e5a5](https://github.com/ultrafro/temporalHop/assets/3029964/edb63905-5a25-499b-8198-886eef6b1cef)
 
 
-
-**Input:**
-
-![ezgif-4-12d620db27](https://github.com/ultrafro/temporalHop/assets/3029964/c7c25508-d34b-4411-aec4-0a15c7268f54)
-
-**Output:**
-
-![ezgif-4-bdfe60e5a5](https://github.com/ultrafro/temporalHop/assets/3029964/edb63905-5a25-499b-8198-886eef6b1cef)
-
 **Settings:**
 - model: Anything v3
 - mode: img2img
@@ -73,11 +64,7 @@ copy over the path in the folder to /inputs, /outputs, and /masks
 
 
 
-example input:
+example input and mask:
 
 ![Untitled (12)](https://github.com/ultrafro/temporalHop/assets/3029964/98f8b530-e2c9-4459-9874-8bd672a3384e) | ![Untitled (13)](https://github.com/ultrafro/temporalHop/assets/3029964/1e80bdf0-a841-4555-acfa-7694dfea4655)
-
-example inpainting mask:
-
-
 
