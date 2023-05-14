@@ -1,6 +1,6 @@
 # temporalHop
 
-Yet another attempt at temporal consistency :)
+Yet another attempt at temporal consistency with high denoising :)
 
 This is a method of achieving img2img temporal consistency in automatic1111 across a long video without using eb-synth. This utilizes the phenomena that stable diffusion seems to be more consistent when creating multiple frames in a single image.
 
