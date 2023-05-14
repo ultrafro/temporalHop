@@ -7,10 +7,11 @@ This is a method of achieving img2img temporal consistency in automatic1111 acro
 This works by creating a template image of 2x2 frames from the video. For each frame in the video, we take 3 control frames that have been transformed via img2img, and vary the bottom right frame, then only in-paint the bottom right frame.
 
 
-:-------------------------:|:-------------------------:
 
 ![ezgif-4-12d620db27](https://github.com/ultrafro/temporalHop/assets/3029964/c7c25508-d34b-4411-aec4-0a15c7268f54)  |  ![ezgif-4-bdfe60e5a5](https://github.com/ultrafro/temporalHop/assets/3029964/edb63905-5a25-499b-8198-886eef6b1cef)
 Input             |  Output
+:-------------------------:|:-------------------------:
+
 
 
 **Input:**
