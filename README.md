@@ -16,7 +16,10 @@ This works by creating a template image of 2x2 frames from the video. For each f
 - mode: img2img
 - prompt: cyberpunk, ((anime)), sci-fi, glowing green eyes, robot, plain t-shirt, masterpiece, sharp lines
 - negative prompt: ugly face
+- denoising: 0.75
+- CFG: 7
 - controlnet: HED soft-edges
+- seed: 3293725976
 
 ### Installation:
 Copy `temporalHop.py` into `/scripts`
